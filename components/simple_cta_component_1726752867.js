@@ -6,7 +6,7 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
-                    <h2 id="cta-title" class="flex-1 mb-4 text-3xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white">
+                    <h2 id="cta-title" class="flex-1 mb-4  font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white">
                         Shop Securely on the Blockchain
                     </h2>
                 </div>
