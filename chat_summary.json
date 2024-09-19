@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 172 (char 298)\", \"time_taken\": \"0:00:01.777911\"}",
+        "timestamp": "19092024143010",
+        "message_id": "guest19092024113022"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will set the background to pink.",
         "timestamp": "19092024143007",
