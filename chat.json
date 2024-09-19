@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields would you like included in the shopping form (e.g., item name, quantity, price)?\", \"option1\": \"Name, Quantity, Price\", \"option2\": \"Name, Quantity, Description\"}, {\"question 2\": \"Do you want any particular style or layout for the form (e.g., vertical, horizontal, or card style)?\", \"option1\": \"Vertical layout\", \"option2\": \"Horizontal layout\"}], \"input_token_count\": 324, \"output_token_count\": 105, \"time_taken\": \"0:00:01.426889\"}",
+        "message_id": "guest19092024113244",
+        "timestamp": "19092024143316",
+        "component_file_name": "blank_component_1726753054",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form to do some shopping, with example palceholder items",
         "message_id": "guest19092024113244",
