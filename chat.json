@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a search bar for easy navigation of products\", \"checked\": true}, {\"feature\": \"Add a filter option to sort products by category or price\", \"checked\": false}, {\"feature\": \"Include a shopping cart icon with item count\", \"checked\": true}, {\"feature\": \"Create a user review section for product feedback\", \"checked\": false}, {\"feature\": \"Design a 'Recommended for You' section based on user preferences\", \"checked\": false}], \"input_token_count\": 377, \"output_token_count\": 109, \"time_taken\": \"0:00:02.723608\"}",
+        "message_id": "guest19092024113557",
+        "timestamp": "19092024143549",
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific items would you like to have as examples in the shopping form?\", \"option1\": \"Electronics like phones and laptops\", \"option2\": \"Clothing items like shirts and shoes\"}, {\"question 2\": \"How would you like the shopping form to be structured? Should it include categories or be a single list?\", \"option1\": \"Categorized by item type\", \"option2\": \"Single list of items\"}], \"input_token_count\": 423, \"output_token_count\": 102, \"time_taken\": \"0:00:02.135275\"}",
         "message_id": "guest19092024113557",
