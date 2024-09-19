@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific items would you like to use as placeholder examples in the shopping form?\", \"option1\": \"Electronics like phones and laptops\", \"option2\": \"Clothing items like shirts and shoes\"}, {\"question 2\": \"How do you envision the layout of the shopping form? Should it be a simple list or a grid format?\", \"option1\": \"Simple list format\", \"option2\": \"Grid format with images and descriptions\"}], \"input_token_count\": 364, \"output_token_count\": 104, \"time_taken\": \"0:00:02.306765\"}",
+        "message_id": "guest19092024113400",
+        "timestamp": "19092024143348",
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form to do some shopping, with example palceholder items",
         "message_id": "guest19092024113400",
