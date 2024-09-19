@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a shopping list form with input fields for item name and quantity\", \"checked\": true}, {\"feature\": \"Include example placeholder items for user guidance\", \"checked\": true}, {\"feature\": \"Implement a checkbox feature for marking items as purchased\", \"checked\": false}, {\"feature\": \"Add a clear button to reset the form\", \"checked\": false}, {\"feature\": \"Display a summary of selected items above the form\", \"checked\": false}], \"input_token_count\": 318, \"output_token_count\": 107, \"time_taken\": \"0:00:02.294505\"}",
+        "message_id": "guest19092024113400",
+        "timestamp": "19092024143352",
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific items would you like to use as placeholder examples in the shopping form?\", \"option1\": \"Electronics like phones and laptops\", \"option2\": \"Clothing items like shirts and shoes\"}, {\"question 2\": \"How do you envision the layout of the shopping form? Should it be a simple list or a grid format?\", \"option1\": \"Simple list format\", \"option2\": \"Grid format with images and descriptions\"}], \"input_token_count\": 364, \"output_token_count\": 104, \"time_taken\": \"0:00:02.306765\"}",
         "message_id": "guest19092024113400",
