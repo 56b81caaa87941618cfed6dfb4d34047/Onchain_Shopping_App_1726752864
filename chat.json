@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 172 (char 298)\", \"time_taken\": \"0:00:01.777911\"}",
+        "message_id": "guest19092024113022",
+        "timestamp": "19092024143010",
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will set the background to pink.",
         "message_id": "guest19092024113022",
