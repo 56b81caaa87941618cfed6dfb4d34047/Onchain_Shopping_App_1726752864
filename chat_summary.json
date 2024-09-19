@@ -2,63 +2,97 @@
     {
         "role": "user",
         "content": "add a form to do some shopping, with example palceholder items",
+        "message_id": "guest19092024113400",
+        "timestamp": "19092024143344",
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a shopping form with placeholder items.",
+        "message_id": "guest19092024113400",
+        "timestamp": "19092024143344",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "19092024143344",
         "message_id": "guest19092024113400"
     },
     {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a shopping form with example placeholder items\", \"checked\": true}, {\"feature\": \"Include a reset button to clear form inputs\", \"checked\": false}, {\"feature\": \"Implement category selection dropdown for items\", \"checked\": false}, {\"feature\": \"Add a summary section to review selected items\", \"checked\": false}, {\"feature\": \"Enable a search bar for quick item location\", \"checked\": true}], \"input_token_count\": 278, \"output_token_count\": 99, \"time_taken\": \"0:00:01.988224\"}",
+        "message_id": "guest19092024113244",
         "timestamp": "19092024143319",
-        "message_id": "guest19092024113244"
+        "component_file_name": "blank_component_1726753054",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields would you like included in the shopping form (e.g., item name, quantity, price)?\", \"option1\": \"Name, Quantity, Price\", \"option2\": \"Name, Quantity, Description\"}, {\"question 2\": \"Do you want any particular style or layout for the form (e.g., vertical, horizontal, or card style)?\", \"option1\": \"Vertical layout\", \"option2\": \"Horizontal layout\"}], \"input_token_count\": 324, \"output_token_count\": 105, \"time_taken\": \"0:00:01.426889\"}",
+        "message_id": "guest19092024113244",
         "timestamp": "19092024143316",
-        "message_id": "guest19092024113244"
+        "component_file_name": "blank_component_1726753054",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a form to do some shopping, with example palceholder items",
+        "message_id": "guest19092024113244",
         "timestamp": "19092024143228",
-        "message_id": "guest19092024113244"
+        "component_file_name": "blank_component_1726753054",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Sure, I will create a shopping form with placeholder items.",
+        "message_id": "guest19092024113244",
         "timestamp": "19092024143228",
-        "message_id": "guest19092024113244"
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"set background color to pink\", \"checked\": true}, {\"feature\": \"add a gradient effect to the background\", \"checked\": false}, {\"feature\": \"allow users to customize background color\", \"checked\": false}, {\"feature\": \"include an animation when changing background\", \"checked\": false}, {\"feature\": \"implement dark mode option\", \"checked\": false}], \"input_token_count\": 239, \"output_token_count\": 89, \"time_taken\": \"0:00:01.877552\"}",
+        "message_id": "guest19092024113022",
         "timestamp": "19092024143013",
-        "message_id": "guest19092024113022"
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_qna",
         "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 172 (char 298)\", \"time_taken\": \"0:00:01.777911\"}",
+        "message_id": "guest19092024113022",
         "timestamp": "19092024143010",
-        "message_id": "guest19092024113022"
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Sure, I will set the background to pink.",
+        "message_id": "guest19092024113022",
         "timestamp": "19092024143007",
-        "message_id": "guest19092024113022"
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "make the background pink",
+        "message_id": "guest19092024113022",
         "timestamp": "19092024143006",
-        "message_id": "guest19092024113022"
-    },
-    {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1726752867",
-        "component_file_name": "",
-        "div_id": ""
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
     }
 ]
