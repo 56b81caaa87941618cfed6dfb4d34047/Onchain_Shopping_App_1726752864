@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "make the background pink",
+        "message_id": "guest19092024113022",
+        "timestamp": "19092024143006",
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
