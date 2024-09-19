@@ -1,5 +1,29 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a shopping list form with input fields for item name and quantity\", \"checked\": true}, {\"feature\": \"Include example placeholder items for user guidance\", \"checked\": true}, {\"feature\": \"Implement a checkbox feature for marking items as purchased\", \"checked\": false}, {\"feature\": \"Add a clear button to reset the form\", \"checked\": false}, {\"feature\": \"Display a summary of selected items above the form\", \"checked\": false}], \"input_token_count\": 318, \"output_token_count\": 107, \"time_taken\": \"0:00:02.294505\"}",
+        "message_id": "guest19092024113400",
+        "timestamp": "19092024143352",
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "In the conversation, the user requested the AI to make the background pink. The AI acknowledged this request and confirmed, stating, \"Sure, I will set the background to pink.\" Following this, the AI sought to gather more information by asking the user to describe the project in more detail. The AI also noted its training data is current up to October 2023.",
+        "timestamp": "19092024143352",
+        "message_id": "guest19092024113400"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific items would you like to use as placeholder examples in the shopping form?\", \"option1\": \"Electronics like phones and laptops\", \"option2\": \"Clothing items like shirts and shoes\"}, {\"question 2\": \"How do you envision the layout of the shopping form? Should it be a simple list or a grid format?\", \"option1\": \"Simple list format\", \"option2\": \"Grid format with images and descriptions\"}], \"input_token_count\": 364, \"output_token_count\": 104, \"time_taken\": \"0:00:02.306765\"}",
+        "message_id": "guest19092024113400",
+        "timestamp": "19092024143348",
+        "component_file_name": "simple_cta_component_1726752867",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form to do some shopping, with example palceholder items",
         "message_id": "guest19092024113400",
@@ -16,12 +40,6 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "19092024143344",
-        "message_id": "guest19092024113400"
     },
     {
         "role": "chat_ui_checklist",
@@ -73,24 +91,6 @@
         "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 172 (char 298)\", \"time_taken\": \"0:00:01.777911\"}",
         "message_id": "guest19092024113022",
         "timestamp": "19092024143010",
-        "component_file_name": "simple_cta_component_1726752867",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I will set the background to pink.",
-        "message_id": "guest19092024113022",
-        "timestamp": "19092024143007",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "make the background pink",
-        "message_id": "guest19092024113022",
-        "timestamp": "19092024143006",
         "component_file_name": "simple_cta_component_1726752867",
         "div_id": "",
         "div_action": ""
