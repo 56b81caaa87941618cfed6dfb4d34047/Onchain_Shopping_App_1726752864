@@ -17,6 +17,10 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
                     </p>
                 </div>
 
+                <div id="cta-image-container" class="flex justify-center mb-4">
+                    <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Onchain_Shopping_App_1726752864/main/images/8a045053e9c1493a9b3645c1ac422a9c.jpeg" alt="E-commerce on the Blockchain" class="max-w-full h-auto rounded-lg" />
+                </div>
+
                 <div id="cta-button-container" class="flex">
                     <a id="cta-button" href="#" class="flex-1 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800">
                         Start Shopping Now
