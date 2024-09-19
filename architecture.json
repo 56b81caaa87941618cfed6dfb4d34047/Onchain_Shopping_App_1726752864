@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nUser: add a form to do some shopping, with example palceholder items\nUser: add a form to do some shopping, with example palceholder items\nAI: Sure, I will create a shopping form with placeholder items.\nAI: Sure, I will set the background to pink.\nUser: make the background pink\n\nThis is the user's current request of changes to be made:\nadd a form to do some shopping, with example palceholder items"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the AI to make the background pink. The AI acknowledged this request and confirmed, stating, \"Sure, I will set the background to pink.\" Following this, the AI sought to gather more information by asking the user to describe the project in more detail. The AI also noted its training data is current up to October 2023.\nUser: add a form to do some shopping, with example palceholder items\nAI: Sure, I'll add a shopping form with placeholder items.\nUser: add a form to do some shopping, with example palceholder items\nAI: Sure, I will create a shopping form with placeholder items.\n\nThis is the user's current request of changes to be made:\nadd a form to do some shopping, with example palceholder items"
     }
 ]
